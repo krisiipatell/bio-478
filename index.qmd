@@ -1,0 +1,26 @@
+---
+title: "Lab S3 "
+author: "Krisi Patel"
+format:
+  html:
+    theme: flatly
+    toc: true
+    toc_float: true
+    embed-resources: true
+editor: visual
+execute: 
+  warning: false
+  message: false
+---
+
+## About Me
+
+My name is Krisi Patel and I am a undergraduate senior studying Biology at the University of Massachusetts Amherst.
+
+## Image
+
+![](images/leaves.jpg)
+
+## Link to Lab 7
+
+[Click here](https://ood.unity.rc.umass.edu/rnode/ceewater-cpu001.unity.rc.umass.edu/57957/files/Lab%207.html)
